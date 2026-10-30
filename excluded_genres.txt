@@ -1,0 +1,37 @@
+# Artists with any of these words/phrases in a Spotify genre are left out of the playlist.
+# One per line, whole-word and case-insensitive match ("electro" doesn't match "electropop").
+techno
+house
+trance
+edm
+electronic
+electronica
+electro
+idm
+drum and bass
+dnb
+jungle
+dubstep
+uk garage
+speed garage
+breakbeat
+bass music
+uk bass
+footwork
+hardstyle
+metal
+reggae
+hardcore
+opera
+jazz
+comedy
+classical
+orchestral
+choral
+electroclash
+ebm
+electrocumbia
+grindcore
+ska
+ballroom
+chamber
